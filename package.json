@@ -1,0 +1,16 @@
+{
+  "name": "sfa-generator",
+  "version": "0.0.1",
+  "description": "Vue page generator with files",
+  "main": "index.js",
+  "author": "dior1726<muxammad_909@mail.ru>",
+  "license": "MIT",
+  "bin": {
+    "gen-page": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1"
+  }
+}
