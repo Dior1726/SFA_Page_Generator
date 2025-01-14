@@ -19,7 +19,7 @@ function capitalize(str) {
 }
 
 program
-  .name("gen-page")
+  .name("sfa-page-generator")
   .description("Generate Vue page with predefined structure")
   .version("1.0.0")
   .argument("<name>", "page name")
